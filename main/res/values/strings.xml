@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Extended Game of Life</string>
+    <string name="button_main_start_text">Start</string>
+    <string name="button_game_start_text">Start</string>
+    <string name="button_game_stop_text">Stop</string>
+    <string name="button_game_erase_text">Erase</string>
+    <string name="button_game_normal_text">Normal</string>
+    <string name="button_game_clear_all_text">Clear All</string>
+
+    <string-array name="cell_types">
+        <item>Kill Cell</item>
+        <item>Normal Cell</item>
+        <item>HighLife Cell</item>
+        <item>2x2 Cell</item>
+        <item>Live Free or Die Cell</item>
+        <item>Maze Cell</item>
+    </string-array>
+</resources>
